@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.exe
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.deps.json
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.runtimeconfig.json
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\refint\PrimeiraAula.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Atividades\PrimeiraAula\obj\Debug\net7.0\ref\PrimeiraAula.dll
