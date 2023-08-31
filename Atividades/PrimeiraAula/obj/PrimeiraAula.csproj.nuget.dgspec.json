@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj": {}
+    "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Estrutura-de-Dados1\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj": {
+    "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Estrutura-de-Dados1\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj",
+        "projectUniqueName": "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Estrutura-de-Dados1\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj",
         "projectName": "PrimeiraAula",
-        "projectPath": "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj",
+        "projectPath": "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Estrutura-de-Dados1\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj",
         "packagesPath": "C:\\Users\\wesll\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Atividades\\PrimeiraAula\\obj\\",
+        "outputPath": "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Estrutura-de-Dados1\\Atividades\\PrimeiraAula\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

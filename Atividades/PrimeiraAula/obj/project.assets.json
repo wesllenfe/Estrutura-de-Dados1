@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj",
+      "projectUniqueName": "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Estrutura-de-Dados1\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj",
       "projectName": "PrimeiraAula",
-      "projectPath": "C:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj",
+      "projectPath": "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Estrutura-de-Dados1\\Atividades\\PrimeiraAula\\PrimeiraAula.csproj",
       "packagesPath": "C:\\Users\\wesll\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Atividades\\PrimeiraAula\\obj\\",
+      "outputPath": "c:\\Users\\wesll\\OneDrive\\Documentos\\Unoesc\\02.2023\\Estrutura de dados\\Estrutura-de-Dados1\\Atividades\\PrimeiraAula\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
