@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\MultiDimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\MultiDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\MultiDimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\MultiDimensionalArrays.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\bin\Debug\net7.0\MultiDimensionalArrays.exe
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\bin\Debug\net7.0\MultiDimensionalArrays.deps.json
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\bin\Debug\net7.0\MultiDimensionalArrays.runtimeconfig.json
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\bin\Debug\net7.0\MultiDimensionalArrays.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\bin\Debug\net7.0\MultiDimensionalArrays.pdb
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\MultiDimensionalArrays.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\refint\MultiDimensionalArrays.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\MultiDimensionalArrays.pdb
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\MultiDimensionalArrays.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\MultiDimensionalArrays\obj\Debug\net7.0\ref\MultiDimensionalArrays.dll
