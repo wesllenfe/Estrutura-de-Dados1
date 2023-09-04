@@ -2,6 +2,7 @@
 int linha, coluna;
 
 Console.WriteLine("Preencha a matriz com os valores 0 ou 1!");
+
 for (int i = 0; i < 3; i++)
 {
     for (int j = 0; j < 3; j++)
