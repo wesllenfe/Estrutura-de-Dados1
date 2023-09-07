@@ -1,0 +1,15 @@
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\bin\Debug\net7.0\Pilha.exe
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\bin\Debug\net7.0\Pilha.deps.json
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\bin\Debug\net7.0\Pilha.runtimeconfig.json
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\bin\Debug\net7.0\Pilha.dll
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\bin\Debug\net7.0\Pilha.pdb
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\Pilha.csproj.AssemblyReference.cache
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfoInputs.cache
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfo.cs
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\Pilha.csproj.CoreCompileInputs.cache
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\Pilha.dll
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\refint\Pilha.dll
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\Pilha.pdb
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\Pilha.genruntimeconfig.cache
+c:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Pilha\obj\Debug\net7.0\ref\Pilha.dll
