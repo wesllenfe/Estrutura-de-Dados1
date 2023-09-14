@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\bin\Debug\net7.0\exe005.exe
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\bin\Debug\net7.0\exe005.deps.json
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\bin\Debug\net7.0\exe005.runtimeconfig.json
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\bin\Debug\net7.0\exe005.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\bin\Debug\net7.0\exe005.pdb
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\exe005.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\exe005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\exe005.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\exe005.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\exe005.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\exe005.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\refint\exe005.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\exe005.pdb
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\exe005.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Exercicios\exe005\obj\Debug\net7.0\ref\exe005.dll
