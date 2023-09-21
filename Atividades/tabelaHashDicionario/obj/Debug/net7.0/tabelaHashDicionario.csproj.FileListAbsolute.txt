@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\bin\Debug\net7.0\tabelaHashDicionario.exe
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\bin\Debug\net7.0\tabelaHashDicionario.deps.json
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\bin\Debug\net7.0\tabelaHashDicionario.runtimeconfig.json
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\bin\Debug\net7.0\tabelaHashDicionario.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\bin\Debug\net7.0\tabelaHashDicionario.pdb
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\tabelaHashDicionario.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\tabelaHashDicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\tabelaHashDicionario.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\tabelaHashDicionario.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\tabelaHashDicionario.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\tabelaHashDicionario.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\refint\tabelaHashDicionario.dll
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\tabelaHashDicionario.pdb
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\tabelaHashDicionario.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Documentos\Unoesc\02.2023\Estrutura de dados\Estrutura-de-Dados1\Atividades\tabelaHashDicionario\obj\Debug\net7.0\ref\tabelaHashDicionario.dll
